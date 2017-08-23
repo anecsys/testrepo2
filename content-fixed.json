@@ -1,0 +1,246 @@
+{
+	"welcome": "Welcome to the DonateLife App. ",
+	"language": "Get started by choosing a language",
+	"age": "Your age group: ",
+	"screenQ1": {
+		"question": "How willing are you to become an organ and tissue donor? ",
+		"least": "Least likely",
+		"most": "Most likely"
+	},
+	"screenQ2": {
+		"question": "How ready are you to discuss organ and tissue donation with your family?",
+		"ans1": "Never thought about it",
+		"ans2": "I've given some thought",
+		"ans3": "Preparing to discuss",
+		"ans4": "I'm ready to discuss",
+		"ans5": "I have discussed",
+		"ans6": "I know how they feel"
+	},
+	"genders": {
+		"question": "I am: ",
+		"female": "female",
+		"male": "male"
+	},
+	"buttons": {
+		"next": "Next",
+		"back": "Back"
+	},
+	"discover": "Discover",
+	"thefacts": "The Facts",
+	"decide": "Decide",
+	"Register": "Register",
+	"Discuss": "With Family",
+	"discoverTitles": {
+		"myths": "DonateLife Mythbusters",
+		"faqs": "Frequently Asked Questions",
+		"facts": "Facts and Statistics",
+		"videos": "Videos",
+		"bol": "Book of Life"
+	},
+	"importance": "Regsitration is important because it leaves your family in no doubt of your decision. The Australian Organ Donor Register is the only national register for people to record their decision about becoming an organ and tissue donor for transplantation after death. Joining the register is voluntary and you can elect which organs and tissues you are willing to donate. <br/> <br/>The national Register provides a record of a person's donation decision for families in the event of their death. This decision can be verified 24 hours a day, seven days a week by authorised personnel anywhere in Australia. <br/> <br/>Around 1,400 Australians are waiting at any one time for a life-saving transplant. One organ and tissue donor can save and transform the lives of many. If you’re willing to one day save lives as an organ and tissue donor today, register your donation decision online today. <br/> <br/>It’s also important to share your donation decision with your family and to ask and know their decisions.",
+	"register": "Register Now",
+	"why": "Why is it important to discuss",
+	"dtips": "Conversation Starters",
+	"reminder": "Set a Reminder",
+	"reminderContent": {
+		"day": "When will I discuss my decision",
+		"time": "Remind me to discuss at this time",
+		"who": "Who will I discuss with?",
+		"how": "How will I discuss my decision?",
+		"submit": "Submit"
+	},
+	"facts": [{
+		"fact": "One organ and tissue donor can transform the lives of 10 or more people."
+	}, {
+		"fact": "Australia is a world leader for successful transplant outcomes."
+	}, {
+		"fact": "Around 1,400 people are on Australian organ transplant waiting lists at any time and a further 12,000 people are on dialysis."
+	}, {
+
+	}, {
+
+	}, {
+		"fact": "The Australian Government funds dedicated doctors and nurses in more than 70 hospitals to work specifically on organ and tissue donation. These positions are part of the national DonateLife Network which includes State Medical Directors, Organ Donor Coordinators and Donor Family Support Coordinators."
+	}, {
+		"fact": "In 2015, 435 organ donors gave 1,241 Australians a new chance in life."
+	}, {
+		"fact": "The number of organ donors and transplant recipients in 2015 was the highest since national records began."
+	}, {
+
+	}, {
+		"fact": "The majority of Australians (69%) are  willing to become organ and tissue donors."
+	}, {
+		"fact": "Only around 1% of deaths in hospitals are in the specific circumstances where the potential for organ donation exists. The circumstances in which you can become a tissue donor are less limited."
+	}, {
+		"fact": " In Australia donor families are provided with support through the National Donor Family Support Service, providing nationally consistent support that is respectful and responsive to the needs of each family."
+	}, {
+		"fact": "In nine out of ten cases, families agree to donation proceeding if their family member was a registered donor and if they had prior knowledge of their loved one’s decision. This drops to just five in ten if the deceased is not registered and the family has no prior knowledge."
+	}, {
+		"fact": "In Australia approximately 60% of families give consent for organ and tissue donation to proceed."
+	}, {
+
+	}, {
+		"fact": "The majority of Australians (93%) that are aware of their family members’ decision indicate that they would uphold that decision."
+	}, {
+		"fact": "Every family who is offered the opportunity of donation is able to receive dedicated support from DonateLife Donor Family Support Coordinators, whether or not donation proceeds."
+	}, {
+		"fact": "The quality of care for a potential donor at the end of his or her life, and the wishes of their family, is always the foremost consideration of those involved, and is never compromised by the potential for organ and tissue donation."
+	}, {
+
+	}],
+	"faqs": [{
+		"question": "What is organ and tissue donation?",
+		"answer": "Organ donation is a life-saving and life-transforming medical process. Organ and tissue donation involves removing organs and tissues from someone who has died (a donor) and transplanting them into someone who is very ill or dying (a recipient)."
+	}, {
+		"question": "Why do people need transplants?",
+		"answer": "People who need an organ transplant are usually very ill or dying because an organ is failing. They range from babies and children through to older people.\n\n People in end-stage liver, heart or lung failure will die unless they have a transplant, while people with kidney failure can usually be placed on dialysis until a kidney becomes available. This requires them to have dialysis up to eight hours a day, several days a week.\n\n People who need a tissue transplant can also be of any age. In some cases, tissue can save lives. More often, it greatly improves the recipient’s life, such as restoring the gift of sight."
+	}, {
+		"question": "How long do people wait for transplants?",
+		"answer": "Waiting times vary and can be between six months and four years but there are cases where the recipient must wait even longer. There is a strong awareness that in most cases the longer the delay in receiving a transplant, the greater the risk of deteriorating health."
+	}, {
+		"question": "Who can become an organ and tissue donor?",
+		"answer": "Almost everyone can help others through organ and/or tissue donation. The governing factors are where and how a donor dies and the condition of their organs and tissues.\n\n While your age and medical history will be considered, you shouldn’t assume you’re too young, too old or not healthy enough to become a donor. All major religions support organ and tissue donation for transplantation. Older Australians with chronic health conditions can be donors. Only a few medical conditions, such as transmissible diseases like HIV, may prevent someone being a donor. A person may not be able to donate for 12 months after having a tattoo."
+	}, {
+		"question": "What organs and tissues can be donated?",
+		"answer": "Organs that can be transplanted include the heart, lungs, liver, kidneys, intestine and pancreas.\n\n Tissues that can be transplanted include heart valves and other heart tissue, bone, tendons, ligaments, skin and parts of the eye such as the cornea and sclera."
+	}, {
+		"question": "How does the donation process work?",
+		"answer": "When a person dies in a situation where they can become an organ donor, the Australian Organ Donor Register is checked to confirm whether the deceased person had registered their donation decision. \n\nA donation specialist will meet with the family to discuss the potential for donation. The family of a potential donor is given time to discuss and reach a decision on whether donation will occur. If donation is agreed, documentation will confirm the donation and which organs and tissues are being donated. During and after the process, the donor's family are supported by DonateLife organ and tissue donation specialist staff. \n\nAll donations and transplants are performed by specialist medical teams in the Australian public health system."
+	}, {
+		"question": "Can the family change their minds about their donation decision?",
+		"answer": "Yes. The family can change their minds about donation at any point up to the time when the patient is taken to the operating room."
+	}, {
+		"question": "How are organs and tissues removed?",
+		"answer": "Organ and tissue retrieval is performed by highly skilled health professionals. The surgical incision made during the operation will be closed and covered as in any other operation and will not be visible beneath the person's clothes.\n\nThe donor’s body is always treated with dignity and respect and the family can still have an open casket viewing if desired."
+	}, {
+		"question": "When can organ donation occur?",
+		"answer": "A person may be able to donate organs when they have been declared brain dead and are being artificially ventilated in hospital. \n\nBrain death is when blood circulation to the brain ceases, the brain stops functioning and dies with no possibility of recovery. "
+	}, {
+		"question": "When can Tissue donation occur?",
+		"answer": "Tissue donation doesn't require the donor's death to have occurred under the same limited circumstances as organ donation. Tissue can be stored for varying periods of time."
+	}, {
+		"question": "Will the person's organs definitely be transplanted?",
+		"answer": "If the family supports donation, everything possible will be done to make sure those wishes are fulfilled. However, at the time of the donation it can sometimes become clear that organs intended for donation are not in fact medically suitable for transplantation. The hospital staff will discuss this with the family if it arises."
+	}, {
+		"question": "Am I assumed to be an organ and tissue donor unless I opt out?",
+		"answer": "No. Australia operates on the opt in system where you choose whether to be a donor or not. If you have opted out by stating no on the Australian Organ Donor Register, donation will not proceed. \n\nIf you have signed yes on the Register, or not registered at all, your family will still need to give consent."
+	}, {
+		"question": "How do I register my decision?",
+		"answer": "On the Australian Organ Donor Register. The Australian Organ Donor Register is the only national register for people to record their decision about becoming an organ and tissue donor for transplantation after death. \n\nIf you don't want to become an organ and tissue donor, you can register your decision not to donate on the Donor Register."
+	}, {
+		"question": "Can I register if I'm under 18 or can I register my children?",
+		"answer": "Yes. You can register your intent from age 16. Children cannot be registered by their parents, but that does not prevent them from being donors as the family can approve donation. "
+	}, {
+		"question": "Is organ and tissue donation against my religion?",
+		"answer": "Many Australians of diverse backgrounds are unsure about whether their culture or faith supports or allows organ and tissue donation. This uncertainty can be a key barrier to making a decision, or sharing that decision with loved ones, about organ and tissue donation. \n\n Almost all religions support organ and tissue donation as an act of compassion and generosity. This includes Christianity, Islam, Buddhism, Hinduism and Judaism.  If a family has any questions they would like to discuss, the hospital staff can provide them with additional information, and assist them in contacting their religious leader.\n\n For more information about your faith and culture in a range of languages, take a look at our multicultural resources."
+	}, {
+		"question": "Why do families need to discuss and know each other's donation decision?",
+		"answer": "Families need to discuss and know each other’s donation decision. Families play a crucial role in the donation process because they are asked to confirm the donation decision of their loved one. The family will be involved in each step of the donation process and be asked to provide vital health information – even if you have registered your decision."
+	}, {
+		"question": "What happens if my family can't be contacted when I die?",
+		"answer": "All efforts will be made by the hospital and police to contact your family and tell them you are in hospital. \n\nIf your family cannot be contacted, a designated officer will try to contact your friends or acquaintances to see if they knew your donation decision. The Australian Organ Donor Register will be checked. "
+	}, {
+		"question": "Will my family receive information about the patients who have benefited from the donation?",
+		"answer": "Australian law restricts identifying information being shared between donor and recipient families. However, the donation staff will provide ongoing information about which organs and tissues were transplanted, and the progress of the recipients. Donor families and transplant recipients can write anonymous letters to each other through the state or territory donation agency."
+	}, {
+		"question": "Can I choose who gets my organs and tissue?",
+		"answer": "No. Organs are allocated to transplant recipients in a fair, equitable process that takes no account of race, religion, gender, social status, disability or age. \n\nAllocation is a complex process. When an organ (other than kidneys) becomes available for donation, a DonateLife donor coordinator passes the necessary information to transplant units in that state. \n\nIf there is no suitable recipient, the organ is offered to transplant units in other states and territories on a roster basis that is designed to promote equity."
+	}, {
+		"question": "Will the donor look different?",
+		"answer": "No. The donation operation does not result in any other significant changes to the person's appearance. The surgical incision made during the operation will be closed and covered as in any other operation and will not be visible beneath the person's clothes."
+	}, {
+		"question": "Will funeral arrangements be affected?",
+		"answer": "No. Organ and tissue donation does not affect funeral arrangements. Viewing the body and an open casket funeral are both possible. "
+	}, {
+		"question": "Will my family be expected to pay for the cost of donation?",
+		"answer": "No. There is no financial cost to the family after death has been formally certified, however your family will be responsible for your funeral expenses."
+	}, {
+		"question": "Can I donate my body to science after donation?",
+		"answer": "Yes. It is possible to donate your body to science after or if organ and tissue donation is not possible. Donation for science is handled directly by Universities. Contact a University to ask them about their arrangements."
+	}, {
+		"question": "I lived in the UK during 'mad cow desease' - can I donate my organs or tissues?",
+		"answer": "You may still be able to donate your organs but not your tissues."
+	}, {
+		"question": "Is transplantation always successful?",
+		"answer": "Australia is internationally recognised for its successful transplants and its long-term survival of recipients. \n\nAs with any operation, there are some risks associated with transplantation surgery, however, the majority of recipients benefit greatly from their transplants and are able to lead full and active lives as a result."
+	}],
+	"myths": [{
+		"myth": "It's better to just let my family decide at the time.",
+		"answer": "If you want to become an organ or tissue donor - you need to tell your family."
+	}, {
+		"myth": "It's my choice - I don't need to discuss it with my family.",
+		"answer": "Your family needs to know. They will be asked to confirm your decision."
+	}, {
+		"myth": "Organ and tissue donation is against my religion.",
+		"answer": "Almost all religions support organ and tissue donation as an act of compassion and generosity."
+	}, {
+		"myth": "I'm too old to be an organ and tissue donor.",
+		"answer": "Age is not a barrier - people over 80 have become organ and tissue donors."
+	}, {
+		"myth": "I'm not healthy enough to donate because of my lifestyle choices.",
+		"answer": "You don't have to be in perfect health. People who smoke, drink or don't have a healthy diet can still donate."
+	}, {
+		"myth": "Organ and tissue donation disfigures the body.",
+		"answer": "Organ donation is specialised surgery and does not disfigure the body."
+	}, {
+		"myth": "If I have registered as a donor, doctors won't try as hard to save my life.",
+		"answer": "The doctor's first priority is always to save your life."
+	}, {
+		"myth": "Enough people become donors so I don't need to think about it.",
+		"answer": "Donation is a rare event - only 1% of hospital deaths allow for organ donation."
+	}, {
+		"myth": "Enough people donate so that if I or a loved one ever needed a transplant, we could get one.",
+		"answer": "Around 1400 people are on transplant waiting lists at any one time. Fewer than 1% of people who die in hospital can become an organ donor."
+	}],
+	"videos": [{
+		"title": "What are you waiting for?",
+		"text": "What are you waiting for? is a powerful video highlighting the importance of organ and tissue donation."
+	}, {
+		"title": "Decided about organ and tissue donation?",
+		"text": "This animation provides a good introduction to organ and tissue donation for transplantation in Australia. It is designed for use in community education activities to support all Australians to discover, decide and discuss organ and tissue donation. It is produced by the Organ and Tissue Authority for public use."
+	}, {
+		"title": "A Change of Heart",
+		"text": "This inspiring story of a transplant recipient from the Arabic community can be used to start the conversation about organ and tissue donation. <br /> <br />This digital story was created as part of the Diversity project, a partnership between Transplant Australia, the NSW Multicultural Health Communication Service and the NSW Organ and Tissue Donation Service."
+	}, {
+		"title": "Mohamed's Dream",
+		"text": "This inspiring story of a transplant recipient from the Lebanese community can be used to start the conversation about organ and tissue donation. <br /> <br />This digital story was created as part of the Diversity project, a partnership between Transplant Australia, the NSW Multicultural Health Communication Service and the NSW Organ and Tissue Donation Service."
+	}, {
+		"title": "A Brother's Gift of Life",
+		"text": "This inspiring story of a transplant recipient from the Vietnamese and Chinese communities can be used to start the conversation about organ and tissue donation. <br /> <br />This digital story was created as part of the Diversity project, a partnership between Transplant Australia, the NSW Multicultural Health Communication Service and the NSW Organ and Tissue Donation Service."
+	}, {
+		"title": "DonateLife Scinamation",
+		"text": "This four minute video provides an overview of organ and tissue donation in Australia and the importance of family discussion about donation decisions. <br /> <br />DonateLife SA teamed with the Royal Institution of Australia (RiAus) to produce this short animated video, or Scinamation, to explain the concepts of organ and tissue donation and brain death. <br /> <br />The Scinamation simplifies these complex scientific concepts and also presents thought-provoking facts and statistics about organ and tissue donation."
+	}, {
+		"title": "Moving On",
+		"text": "Watch the engaging short films produced by young and emerging film makers on the topic of organ and tissue donation for transplantation, as part of the Groundswell Project's innovative FilmLife Film Project. Sponsored by the Organ and Tissue Authority, this project enables film makers to create short films that inspire and provoke discussion about organ and tissue donation.  <br /> <br />Film makers are supported with intensive workshops and interaction with donor families, transplant recipients and DonateLife network staff. The 2014 'Best Film' was awarded to Kristi Gilligan's film, Moving On."
+	}, {
+		"title": "DonateLife - CSA 2015",
+		"text": "A group of Hobart organ transplant recipients have featured in a locally produced television and online commercial aimed at motivating people to become organ donors.  <br /> <br />Spokesperson for Donatelife Tasmania, Dr Andrew Turner, sid the video would help raise the profile of this important cause."
+	}, {
+		"title": "Life Death and Donation #sayYESsavelives",
+		"text": "Have you thought of your death as potentially giving life? Two inspiring patients, one leading doctor and four young Melbournians share their views on organ and tissue donation."
+	}],
+	"why1": "The Australian Organ Donor Register is the only national register for people to record their decision about becoming an organ and tissue donor for transplantation after death. If you previously registered your donation decision when applying for or renewing a driver's licence, you need to join the AODR to make sure you have a current record of your decision. Joining the register is voluntary and you can elect which organs and tissues you are willing to donate. <br /> <br /> The national Register provides a record of a person's donation decision. This decision can be verified 24 hours a day, seven days a week by authorised personnel anywhere in Australia.  If you're willing to one day save lives as an organ and tissue donor today, register your donation decision online today. ",
+	"register1": {
+		"dec": "To register your decision to become an organ and tissue donor:"
+	},
+	"tips": [{
+		"tip": "My friend registered as an organ and tissue donor.  I am thinking about registering too. What's your view about organ and tissue donation?"
+	}, {
+		"tip": "I have just seen the DonateLife app.  Did you know that one organ and tissue donor can save the lives of 10 people?"
+	}, {
+		"tip": "Any of you guys organ donors? What's your reasoning behind your decision?"
+	}, {
+		"tip": "I'm willing to become an organ or tissue donor. I hope you can support me."
+	}, {
+		"tip": "So, who else is going to donate an organ besides me?"
+	}, {
+		"tip": "I just saw this funny ad on the internet and it got me thinking about organ and tissue donation. Did you know that one donor can transform the lives of 10 people?"
+	}, {
+		"tip": "Did you know only 1% of people die in intensive care in hospital where organ donation is possible? That's why it's important to register to become a donor."
+	}, {
+		"tip": "Did you know that almost all religions support organ and tissue donation? I think it is a good thing to do and I may be able to save 10 lives should I ever become an organ and tissue donor."
+	}],
+	"important": "Your family and close friends need to know your decision because, in the event of your death, they will be asked to confirm your donation decision before donation for transplantation can proceed. <br/> <br/>Family discussion and knowledge about each other's donation decision is critical to ensure that every potential donor's decision is upheld. <br /> <br />If you want your family to honour your decision, then they need to know. <b>Discuss it today.</b>",
+	"underRegister": "Register your donation decision online today."
+}
